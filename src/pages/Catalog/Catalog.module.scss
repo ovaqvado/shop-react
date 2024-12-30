@@ -1,0 +1,9 @@
+.box__products {
+	display: grid;
+	grid-template-columns: 200px 200px 200px;
+	gap: 50px;
+	background-color: #6d6d6d67;
+	padding: 10px;
+	align-items: center;
+	list-style: none;
+}
